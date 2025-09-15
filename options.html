@@ -3,16 +3,28 @@
    <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="options.css">
 
     <title>options</title>
    </head>
    <body>
-    <div>
-        <button id="forceRedirect"> Force Redirect</button>
-        <button  id="suggestRedirect"> Suggest Redirect</button>
-    </div>
-        <button  id="getUrl">Get URL</button>
-        <script src="options.js"></script>
+
+        <div class="switch-toggle">
+            <div class="button-check" id="button-check">
+            <input type="checkbox" class="checkbox" id="suggestRedirect"> 
+            <span class="switch-btn"></span>
+            <span class="layer"></span>
+            </div>
+        </div>
+
+        <div class="switch-toggle">
+            <div class="button-check" id="button-check">
+            <input type="checkbox" class="checkbox" id="forceRedirect"> 
+            <span class="switch-btn"></span>
+            <span class="layer"></span>
+            </div>
+        </div>
+    <script src="options.js"></script>
    </body>
    </html>
 
