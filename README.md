@@ -11,8 +11,10 @@ Redirect junk-food browsing to healthier, Suggest healther food sites. Not all f
 1.download the source code from the release 
 <img width="1305" height="723" alt="Screenshot 2025-09-27 111411" src="https://github.com/user-attachments/assets/98fcded5-3c2a-4813-91de-870cad8b24c0" />
 <img width="1329" height="721" alt="Screenshot 2025-09-27 111449" src="https://github.com/user-attachments/assets/8d24cc53-b50c-4551-9938-0ac2d401e956" />
+
 2. unpack the zip file
 <img width="358" height="371" alt="Screenshot 2025-09-27 111530" src="https://github.com/user-attachments/assets/c2c25cc5-e1be-4a78-80c3-6688fd02e7c7" />
+
 3.Go to the Extensions page by entering chrome://extensions in a new tab.
 4.Enable Developer Mode by clicking the toggle switch next to Developer mode.
 5.Click the Load unpacked button and select the extension directory.
