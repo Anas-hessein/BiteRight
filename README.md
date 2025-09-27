@@ -2,9 +2,11 @@
 Redirect junk-food browsing to healthier, Suggest healther food sites. Not all features works not i wll made it in the next version. its only suggest to you a healthy website with big flag. The popup isn't have any working features rn. BiteRight extensions show you what type of food you should eat to have a healthier life style.
 # Logo
 <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/70005bb9-bae7-4ab1-92df-7d075aa0a5d5" />
+
 # Apperance
 <img width="1366" height="728" alt="Screenshot 2025-09-27 110752" src="https://github.com/user-attachments/assets/5808719d-2e84-49bd-838d-33c58d47ee8b" />
 <img width="1366" height="716" alt="Screenshot 2025-09-27 110810" src="https://github.com/user-attachments/assets/cada6f18-7ab2-4c63-9a1f-b33d4dc43f0b" />
+
 # How to instal the chrome extension
 1.download the source code from the release 
 <img width="1305" height="723" alt="Screenshot 2025-09-27 111411" src="https://github.com/user-attachments/assets/98fcded5-3c2a-4813-91de-870cad8b24c0" />
