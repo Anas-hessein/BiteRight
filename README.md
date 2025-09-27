@@ -1,5 +1,22 @@
 # BiteRight
 Redirect junk-food browsing to healthier, Suggest healther food sites. Not all features works not i wll made it in the next version. its only suggest to you a healthy website with big flag. The popup isn't have any working features rn. BiteRight extensions show you what type of food you should eat to have a healthier life style.
+# junkfood sites that the extension work on. 
+    "https://egypt.burgerking.delivery/",
+    "https://www.mcdelivery.eg/eg/",
+    "https://egypt.kfc.me/en/",
+    "https://www.papajohns.com/",
+    "https://www.wendys.com/en-gb/",
+    "https://www.papajohnsegypt.com/",
+    "https://www.dominos.co.uk/",
+    "https://www.dunkindonuts.com/",
+    "https://www.fiveguys.com/online-ordering/",
+    "https://fiveguys.co.uk/",
+    "https://www.burgerking.co.uk/store-locator/address",
+    "https://www.shakeshack.com.my/",
+    "https://www.papajohnsegypt.com/",
+    "https://hotlines.tel/en/sps/",
+    "https://egypt.kfc.me/en/home"
+    
 # Logo
 <img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/70005bb9-bae7-4ab1-92df-7d075aa0a5d5" />
 
